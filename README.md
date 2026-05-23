@@ -62,9 +62,9 @@ Built as a portfolio-grade infrastructure academy platform inspired by:
 
 ![suppurt-simulator](img/suppurt-simulator.png)
 
-## windows-server
+## Interview Simulator
 
-![windows-server](img/windows-server.png)
+![interview-simulator](img/interview-simulator.png)
 
 ---
 
