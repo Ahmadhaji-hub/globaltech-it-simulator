@@ -28,13 +28,6 @@ The platform includes:
 * Interview preparation
 * Toolkits & automation
 
-Built as a portfolio-grade infrastructure academy platform inspired by:
-
-* Microsoft Learn
-* Hack The Box
-* TryHackMe
-* Azure Portal
-* Enterprise SOC dashboards
 
 ---
 
@@ -143,6 +136,23 @@ Built as a portfolio-grade infrastructure academy platform inspired by:
 ```
 
 ---
+# Enterprise Learning Journey
+
+The platform is structured as a real enterprise learning path:
+
+Networking Fundamentals
+→ Windows Server
+→ Active Directory
+→ Microsoft Entra ID
+→ Intune
+→ Microsoft 365
+→ Azure Infrastructure
+→ Security Operations
+→ Linux Administration
+→ DevOps Engineering
+
+Each section contains sequential enterprise labs and structured documentation designed to simulate real-world infrastructure environments.
+
 
 # Future Improvements
 
