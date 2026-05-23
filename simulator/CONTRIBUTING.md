@@ -22,7 +22,7 @@ Thanks for taking the time to help improve this project! 🙌
 
 ## How to Suggest a Feature
 
-1. Go to the **[Issues](../../issues)** tab
+1. Go to the **[Issues](https://github.com/Ahmadhaji-hub/globaltech-it-simulator/issues)** tab
 2. Click **"New issue"**
 3. Start the title with `[Feature]`
 4. Describe your idea:
