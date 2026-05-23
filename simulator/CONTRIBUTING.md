@@ -6,7 +6,7 @@ Thanks for taking the time to help improve this project! 🙌
 
 ## How to Report a Bug
 
-1. Go to the **[Issues](../../issues)** tab at the top of this repository
+1. Go to the **[Issues](https://github.com/Ahmadhaji-hub/globaltech-it-simulator/issues)** tab at the top of this repository
 2. Click **"New issue"**
 3. Choose **"Bug report"** (or write a title that starts with `[Bug]`)
 4. Describe the problem clearly:
