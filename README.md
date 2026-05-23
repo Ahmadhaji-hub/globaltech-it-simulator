@@ -2,7 +2,7 @@
 
 > A modern enterprise IT infrastructure simulation platform focused on real-world System Administration, Cloud Engineering, Networking, Security and IT Operations.
 
-**Live →** https://ahmadhaji-hub.github.io/globaltech-it-simulator/
+**Live →** [ahmadhaji-hub.github.io/globaltech-it-simulator](https://ahmadhaji-hub.github.io/globaltech-it-simulator)
 **Stack →** HTML · TailwindCSS · Vanilla JavaScript · GitHub Pages
 **Theme →** Enterprise Dark Infrastructure UI
 
