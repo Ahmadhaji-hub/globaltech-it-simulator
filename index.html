@@ -44296,6 +44296,11 @@ function renderSection(sectionKey) {
 
               </button>
 
+              <button onclick="downloadLabDoc()"
+                class="bg-cyan-600 hover:bg-cyan-700 px-5 py-3 rounded-xl font-semibold transition">
+                Download 
+              </button>
+
             </div>
 
           </div>
@@ -46454,6 +46459,40 @@ syncBottomNav('dashboard');
 
 })();
 </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+<script>
 
+function downloadLabDoc() {
+
+  const element =
+    document.querySelector('#lab-modal-body .modal-scroll');
+
+  element.style.maxHeight = "none";
+  element.style.overflow = "visible";
+
+  html2pdf().set({
+
+    margin: 10,
+    filename: 'GlobalTech-Lab.pdf',
+
+    html2canvas: {
+      scale: 2
+    },
+
+    jsPDF: {
+      unit: 'mm',
+      format: 'a4',
+      orientation: 'portrait'
+    }
+
+  })
+
+  .from(element)
+  .save();
+
+}
+
+</script>
+    
 </body>
 </html>
