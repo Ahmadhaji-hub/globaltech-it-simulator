@@ -172,3 +172,7 @@ Each section contains sequential enterprise labs and structured documentation de
 Built by Ahmad Haji
 
 GlobalTech Enterprise Simulator ©
+
+## Open Source Integrations
+
+- IT Support Simulator integration based on the open-source work of Rogério Rocha
