@@ -176,3 +176,4 @@ GlobalTech Enterprise Simulator ©
 ## Open Source Integrations
 
 - IT Support Simulator integration based on the open-source work of  Rogério Rocha
+- https://github.com/rogeriorch77
